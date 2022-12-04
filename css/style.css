@@ -1,0 +1,6 @@
+.bgimage{
+    background: url('/image/scenary2.jpg');
+    background-size: cover;
+    height: 800px;
+    width: auto;
+}
